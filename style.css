@@ -1,0 +1,49 @@
+
+body {background-color:black; font-family: arial;color: white;}
+
+h1{color:grey; font-family: verdana;text-align:center}
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 380px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+.resultado{
+    margin-top: 10px;
+    text-align:center;
+    overflow-wrap: break-word;
+}
+input{
+    width: 120px;
+}
+label{
+    width: 100px;
+    display: inline-block;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.button1:hover {
+    background-color: #088CBA;
+    color: white;
+}
+p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+ }
